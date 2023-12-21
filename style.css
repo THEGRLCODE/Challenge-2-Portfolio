@@ -45,11 +45,15 @@ figure{
 }
 
 .column-left{
-    flex: 0 0 70%;
+    flex:1 0 0%;
     border: 1px solid red;
+    margin-left: 10%;
+    width: 30%;
 }
 .column-right{
-    flex: 1 0 30%;
+    flex:1 0 90%;
     border: 1px saddlebrown;
+    margin-left: 5%;
+    width: 55;
 }
 
